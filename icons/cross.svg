@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>cross</title>
+    <g id="cross" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M419.341666,57.3029945 L454.697006,92.6583335 L291.354994,255.999994 L454.697006,419.341666 L419.341666,454.697006 L255.999994,291.354994 L92.6583335,454.697006 L57.3029945,419.341666 L220.643994,255.999994 L57.3029945,92.6583335 L92.6583335,57.3029945 L255.999994,220.643994 L419.341666,57.3029945 Z" id="Combined-Shape" fill="#FF3B3B"></path>
+    </g>
+</svg>

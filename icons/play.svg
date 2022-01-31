@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512px" height="512px" viewBox="0 0 512 512" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>play</title>
+    <g id="play" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M163.672501,96.4843579 L163.719596,96.5123579 L164.127596,96.5129794 L164.127596,96.7473579 L406.768596,236.836358 L413.087817,240 L413.087817,270.785628 L163.672501,414.785628 L163.513596,414.512358 L114.127596,414.512979 L114.127596,96.5129794 L163.655596,96.5123579 L163.672501,96.4843579 Z M164.127596,154.482358 L164.127596,356.787358 L339.329596,255.635358 L164.127596,154.482358 Z" id="Combined-Shape" fill="#FF3B3B"></path>
+    </g>
+</svg>
