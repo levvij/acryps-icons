@@ -44,6 +44,10 @@ ui-icon {
     font-family: acryps-icons;
 }
 
+ui-icon:before {
+    content: \${head.toString(16)};
+}
+
 `;
 
 let html = `
