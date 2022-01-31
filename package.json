@@ -1,6 +1,6 @@
 {
     "name": "acryps-icons",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "dependencies": {
         "svg2ttf": "^6.0.3"
     },
