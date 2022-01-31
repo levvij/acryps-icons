@@ -45,7 +45,7 @@ ui-icon {
 }
 
 ui-icon:before {
-    content: \\${head.toString(16)};
+    content: "\\${head.toString(16)}";
 }
 
 `;
